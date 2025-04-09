@@ -59,3 +59,10 @@ himels-ecommerce-project/
 ├── sanitized-db-export.sql
 ├── README.md
 └── INSTRUCTIONS.md
+```
+
+## ⭐ Star this repo if you like the project!
+If you like this project, feel free to give it a star! 🌟
+
+## 🔗 Link to My GitHub Profile
+You can follow me on GitHub here: [Sheikh Himel Ahmed](https://github.com/sheikh-himel-ahmed)
