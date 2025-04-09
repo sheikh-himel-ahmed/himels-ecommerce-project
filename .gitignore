@@ -1,0 +1,28 @@
+# === WordPress Sensitive Files ===
+wp-config.php
+wp-config-sample.php
+
+# === Folders to Ignore ===
+wp-content/uploads/
+wp-content/litespeed/
+wp-content/updraft/
+wp-content/wpo-cache/
+wp-content/cache/
+wp-content/ai1wm-backups/
+
+# === Log Files ===
+*.log
+
+# === System Files ===
+.DS_Store
+Thumbs.db
+
+# === IDE & Editor Folders ===
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# === OS Files ===
+ehthumbs.db
+desktop.ini
