@@ -5,7 +5,6 @@ This is a full-featured eCommerce website built using **WordPress + WooCommerce*
 ## 🌐 Live Site
 
 > 🔗 [Visit the Live Site](https://woocommerce.metgos.com/)  
-> _(Replace with your actual site URL)_
 
 ---
 
